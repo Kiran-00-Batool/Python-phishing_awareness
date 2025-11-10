@@ -1,9 +1,9 @@
 # Python-phishing_awareness
 #!/usr/bin/env python3
 """
-CodeAlpha Cyber Security Internship — Task 2
+CodeAlpha Cyber Security Internship — Task 3
 Phishing Awareness Training Program (Interactive Python Version)
-Developer: Muheeb Bin Nadeem
+Developer: Kiran Batool
 """
 
 import time
